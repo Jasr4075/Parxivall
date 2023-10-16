@@ -1,14 +1,14 @@
 # Bienvenido a mi perfil de GitHub
 
-¡Hola! Soy [Tu Nombre], un apasionado de la tecnología y la programación. Aquí encontrarás algunos de mis proyectos y contribuciones en GitHub.
+¡Hola! Soy Juan, un apasionado de la tecnología y la programación. Aquí encontrarás algunos de mis proyectos y contribuciones en GitHub.
 
 ## Acerca de mí
 
-- 🌍 Soy de [Venezuela].
-- 🌍 Vivo en [Chapeco-SC-Brasil].
-- 💼 Soy [Estudante de ciencia da computaçao].
+- 🌍 Soy de Venezuela.
+- 🌍 Vivo en Chapeco-SC-Brasil.
+- 💼 Soy Estudante de ciencia da computaçao.
 - 🌱 Estoy aprendiendo constantemente y siempre buscando nuevos desafíos.
-- 📫 Puedes contactarme en [jasr4075@gmail.com] o [tu sitio web].
+- 📫 Puedes contactarme en jasr4075@gmail.com o [tu sitio web].
 
 
 ## Proyectos Destacados
@@ -29,7 +29,7 @@ Aquí tienes algunas de mis contribuciones destacadas en proyectos de código ab
 
 ¡No dudes en contactarme! Puedes encontrarme en:
 
-- Correo Electrónico: [jasr4075@gmail.com]
+- Correo Electrónico: jasr4075@gmail.com
 - Sitio Web: [tu-sitio-web.com]
 - LinkedIn: [LinkedIn Profile]
 - Twitter: [Twitter Profile]
