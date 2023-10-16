@@ -6,9 +6,15 @@
 
 - 🌍 Soy de Venezuela.
 - 🌍 Vivo en Chapeco-SC-Brasil.
-- 💼 Soy Estudante de ciencia da computaçao.
+- 💼 Soy Estudiante de ciencia computacional.
 - 🌱 Estoy aprendiendo constantemente y siempre buscando nuevos desafíos.
 - 📫 Puedes contactarme en jasr4075@gmail.com o [tu sitio web].
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 
 ## Proyectos Destacados
