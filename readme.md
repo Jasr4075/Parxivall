@@ -4,11 +4,10 @@
 
 ## Acerca de mí
 
-- 🌍 Soy de Venezuela.
-- 🌍 Vivo en Chapeco-SC-Brasil.
-- 💼 Soy Estudiante de ciencia computacional.
-- 🌱 Estoy aprendiendo constantemente y siempre buscando nuevos desafíos.
-- 📫 Puedes contactarme en jasr4075@gmail.com.
+- 🌍 Soy de Venezuela y vivo en Chapeco-SC, Brasil.
+- 💼 Actualmente, estoy estudiando Ciencia Computacional.
+- 🌱 Siempre estoy aprendiendo y buscando nuevos desafíos.
+- 📫 Puedes contactarme en [jasr4075@gmail.com](mailto:jasr4075@gmail.com).
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
