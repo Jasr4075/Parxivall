@@ -43,7 +43,7 @@ Aquí tienes algunas de mis contribuciones destacadas en proyectos de código ab
 
 ## Contacto
 
-<a href="https://www.facebook.com/angel.rodriguezii.14 pithen wala" target="blank"><img align="center"
+<a href="https://www.facebook.com/angel.rodriguezii.14/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
 
